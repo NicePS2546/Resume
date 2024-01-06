@@ -1,0 +1,57 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Title{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 15px;
+}   
+
+.hr{
+        width: 30%; 
+        height: 10px;
+        background: rgb(116, 116, 116);
+        margin-top: 30px;
+}
+.img-profile{
+    margin-left: 10px;
+    float: left;
+    margin-right: 20px;
+}
+
+.section-container{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.general{
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    background-color: rgb(22, 176, 248);
+}
+.profile-info{
+
+    font-size: 30px;
+}
+
+.contact{
+    font-size: 40px;
+    background-color: rgb(22, 176, 248);
+    padding-left: 10px;
+    margin-top: 90px;
+}
+
+.contact-info{
+    font-size: 30px;
+}
+.education{
+    padding-left: 10px;
+    font-size: 40px;
+    background-color: rgb(22, 176, 248);
+}
+.footer{
+    margin-top: 20px;
+}
